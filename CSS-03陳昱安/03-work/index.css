@@ -1,0 +1,68 @@
+#home{
+    background-image: url(./images/fam2-2.jpg);
+}
+
+#about{
+    background-image: url(./images/me3-1.jpg);
+}
+#work1{
+    background-image: url(./images/bg-work-01-01-01.jpg);
+}
+#video-bg{
+    background-image: url(./images/YTB-01-01.jpg);
+}
+#logo{
+    background-image: url(./images/bg-good-01.jpg);
+    
+}
+
+#polygon{
+    background-image: url(./images/bg-good-01.jpg);
+    
+}
+
+
+
+
+
+html,
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+section{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 200px;
+
+}
+
+
+.txt-bg{
+    background-color: rgba(255, 255, 255, .6);
+    border-radius: 50px;
+    text-align: justify;
+    padding: 50px;
+    width: 800px;
+    margin: auto;
+}
+
+.txt-bg h2{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/*----*/
+
+/*----*/
