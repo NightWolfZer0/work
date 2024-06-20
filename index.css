@@ -1,25 +1,35 @@
-/*#home{
-    background-image: url(./images/g);
+#home{
+    background-image: url(./images/fam2-2.jpg);
 }
 
 #about{
-    background-image: url(./images/p1.jpg);
+    background-image: url(./images/me3-1.jpg);
 }
-#news{
-    background-image: url(./images/p2.jpg);
+#work1{
+    background-image: url(./images/bg-work-01-01-01.jpg);
 }
-#service{
-    background-image: url(./images/p3.jpg);
+#video-bg{
+    background-image: url(./images/YTB-01-01.jpg);
 }
-#contact{
-    background-image: url(./images/p4.jpg);
+#logo{
+    background-image: url(./images/bg-good-01.jpg);
+    
 }
+
+#polygon{
+    background-image: url(./images/bg-good-01.jpg);
+    
+}
+
+
+
+
 
 html,
 body{
     width: 100%;
     height: 100%;
-}*/
+}
 
 
 section{
@@ -45,3 +55,14 @@ section{
     text-align: center;
 }
 
+
+
+
+
+
+
+
+
+/*----*/
+
+/*----*/
